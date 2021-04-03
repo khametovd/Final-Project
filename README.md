@@ -1,7 +1,7 @@
 # Final-Project(CSS 348 – ADVANCED DATABASE MANAGEMENT SYSTEMS)
 Team : PharmaDAD
 
-Team Members(with github nicknames) : Tokmukhanbet Daulet(dato3), Zhomartuly Almas(ZhomartulyAlmas) , Dauren Khametov
+Team Members(with github nicknames) : Tokmukhanbet Daulet(dato3), Zhomartuly Almas(ZhomartulyAlmas) , Dauren Khametov(khametovd)
 
 Project Name : E-Pharmacy
 
